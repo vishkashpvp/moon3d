@@ -1,0 +1,29 @@
+{
+  "name": "moon3d",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "repository": {
+    "url": "https://github.com/vishkashpvp/moon3d"
+  },
+  "author": {
+    "name": "Vishnuprakash P",
+    "url": "https://github.com/vishkashpvp"
+  },
+  "keywords": [
+    "3D",
+    "Three.js",
+    "Vite"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.156.1"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  }
+}
